@@ -1,0 +1,16 @@
+# Compiled binaries & packages
+**/target/
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA metadata
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# macOS system files
+.DS_Store
